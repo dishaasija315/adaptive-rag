@@ -1,0 +1,3 @@
+**Tool Instruction:**
+
+"Use this tool to search and retrieve information *exclusively* from the uploaded document(s). This tool is designed *solely* for answering questions that can be directly addressed by the content of the provided PDF."
